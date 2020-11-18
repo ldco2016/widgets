@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # widgets
 ReactJS Widget Application with multiple components
 
@@ -7,7 +6,8 @@ ReactJS Widget Application with multiple components
 * A Dropdown item selection component
 * A Google Translate API component
 
-No third party navigation system such as React-Router was used, but instead custom navigation using JavaScript. 
+No third party navigation system such as React-Router was used, but instead custom navigation using JavaScript.
+
 =======
 # Getting Started with Create React App
 
